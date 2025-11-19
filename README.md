@@ -62,10 +62,7 @@ Package | Description
 
 * dart file :
   * [\lib\game\widgets\analog_clock_build.dart](https://github.com/AkashDivya/infinity_flutter_clock)
-* images :
-  * [Turtle vector - Created by vectorportal.com](https://vectorportal.com/vector/green-turtle-vector-clip-art/29130)
-  * [Animals background - Designed by brgfx](https://www.freepik.com/free-vector/border-template-with-cute-animals_6997467.htm)
-  * [Grass background - Designed by pikisuperstar](https://www.freepik.com/free-vector/green-grass-border-realistic-design_4770695.htm)
+
 * animations :
   * [Cloud and sun](https://lottiefiles.com/50651-cloudy)
   * [Bear success](https://lottiefiles.com/40445-paul-r-bear-success)
